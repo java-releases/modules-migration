@@ -1,4 +1,4 @@
-package com.fazendo.galinha;
+package com.fazenda.galinha;
 
 import java.util.List;
 

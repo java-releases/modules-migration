@@ -31,3 +31,6 @@ bin
 .bin/
 .settings
 *.settings
+galinha/.settings
+ninho/.project
+ovo/.classpath
