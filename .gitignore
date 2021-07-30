@@ -32,5 +32,11 @@ bin
 .settings
 *.settings
 galinha/.settings
+galinha/.project
+galinha/.classpath
+ninho/.settings
 ninho/.project
+ninho/.classpath
+ovo/.settings
+ovo/.project
 ovo/.classpath
