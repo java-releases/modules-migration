@@ -1,4 +1,4 @@
-![](https://github.com/ocpjp-study/modules-migration/blob/main/modules-migration.png)
+![](https://github.com/ocpjp-study/modules-migration/blob/main/modules-migration.jpg)
 
 ### Tópico: Migrando para uma aplicação modular
 ### Objetivos
