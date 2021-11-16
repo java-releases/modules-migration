@@ -1,5 +1,3 @@
-![](https://github.com/ocpjp-study/modules-migration/blob/main/modules-migration.jpg)
-
 ### Tópico: Migrando para uma aplicação modular
 ### Objetivos
 - Migrar uma aplicação que use JDK <= 8, para JDK 11
